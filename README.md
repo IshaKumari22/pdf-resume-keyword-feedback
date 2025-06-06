@@ -24,3 +24,8 @@ pdf_resume_keyword_feedback/
 ├── your_resume.pdf
 ├── env/ (virtual environment)
 └── README.md
+
+## 📷 Sample Output Screenshot
+
+![Output Screenshot](pdf_resume_keyword_output.png)
+
